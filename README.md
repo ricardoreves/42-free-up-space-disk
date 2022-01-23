@@ -11,5 +11,5 @@ bash free_up_space_disk.sh
 ## Tips
 Run the script every time you log in. 
 ```
-echo "sh ~/42-free-up-space-disk/free_up_space_disk.sh" >> ~/.zshrc
+echo "bash ~/42-free-up-space-disk/free_up_space_disk.sh" >> ~/.zshrc
 ```
