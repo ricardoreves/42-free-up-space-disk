@@ -12,11 +12,7 @@ bash free_up_space_disk.sh
 
 ### Automatically
 run the script on every startup
-```
-vim ~/.zshrc
-```
-add the command below at the end of the file
+Open `vim ~/.zshrc` and add the command below at the end of the file, this will run the script every time you log in. 
 ```
 bash ~/42-free-up-space-disk/free_up_space_disk.sh
 ```
-this will run the script every time you log in
