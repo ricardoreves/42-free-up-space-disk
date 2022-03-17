@@ -4,15 +4,15 @@
 This bash script allows you to free up to 3GB of disk space in your home directory, by deleting the cache of several applications.
 
 ## 🚀 Getting Started
-1. Download project
+1. Clone the project
 ```
 git clone git@github.com:ricardoreves/42-free-up-space-disk.git
 ```
-2. Change directory
+2. Navigate to the project directory
 ```
 cd 42-free-up-space-disk
 ```
-3. Allow executable permission
+3. Set the script executable permission
 ```
 chmod +x free_up_space_disk.sh
 ```
