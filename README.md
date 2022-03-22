@@ -47,3 +47,6 @@ rm -rf path/to/delete
 cd /goinfre/login42
 ```
 NOTE: however you will have to work on the same machine
+
+## :books: References
+- [osxdaily.com](https://osxdaily.com/2007/03/20/command-line-disk-usage-utilities-df-and-du/) - Command Line Disk Usage Utilities: df and du
