@@ -24,3 +24,26 @@ bash free_up_space_disk.sh
 ```
 echo "bash ~/42-free-up-space-disk/free_up_space_disk.sh" >> ~/.zshrc
 ```
+
+## 💡 Other Solutions
+
+### Find and delete manually
+1. Navigate to your home directory
+```
+cd ~
+```
+2. Display the total disk usage size of the directory
+```
+du -cksh *
+```
+3. Manually delete the files you deem unnecessary
+```
+rm -rf path/to/delete
+```
+
+### Use goinfre
+1. Navigate to your goinfre
+```
+cd /goinfre/login42
+```
+NOTE: however you will have to work on the same machine
