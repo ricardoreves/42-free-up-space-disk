@@ -41,7 +41,7 @@ du -cksh *
 rm -rf path/to/delete
 ```
 
-### use machine disk (goinfre)
+### Use machine disk (goinfre)
 1. Navigate to your goinfre
 ```
 cd /goinfre/login42
