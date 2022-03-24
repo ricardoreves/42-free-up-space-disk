@@ -38,13 +38,13 @@ du -cksh *
 ```
 3. Manually delete the files you deem unnecessary
 ```
-rm -rf path/to/delete
+rm -rf <path>
 ```
 
 ### Use machine disk (goinfre)
 1. Navigate to your goinfre
 ```
-cd /goinfre/login42
+cd /goinfre/<login42>
 ```
 NOTE: however you will have to work on the same machine
 
