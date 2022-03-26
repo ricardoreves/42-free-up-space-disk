@@ -48,5 +48,18 @@ cd /goinfre/<login42>
 ```
 NOTE: however you will have to work on the same machine
 
+## 🧼 Formatting the Home directory
+1. Save the contents of your home in a USB key
+2. Create a `.reset`/`.reset_library` file at the root of your home
+```
+# reset the home directory
+touch ~/.reset
+
+# reset the home library directory
+touch ~/.reset_library
+```
+3. `Logout` then `Login`
+4. Now your home is like the first day !
+
 ## :books: References
 - [osxdaily.com](https://osxdaily.com/2007/03/20/command-line-disk-usage-utilities-df-and-du/) - Command Line Disk Usage Utilities: df and du
